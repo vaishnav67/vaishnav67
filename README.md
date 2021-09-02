@@ -1,6 +1,11 @@
-### What is a man? A miserable little pile of secrets. But enough talk… Have at you!
+# What is a man? A miserable little pile of secrets. But enough talk… Have at you!
 Hey there! My name is Vaishnav and welcome to my house!
 I'm currently in my 2nd year in college and I hope to work at Microsoft someday lol.
+# Pinned
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=RaspberryPiIntercom&theme=omni)](https://github.com/vaishnav67/RaspberryPiIntercom) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=Instagram-Influencer-Spider&theme=omni)](https://github.com/vaishnav67/Instagram-Influencer-Spider) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=OnlineTheatreDB&theme=omni)](https://github.com/vaishnav67/OnlineTheatreDB)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=Luxor-2-Sparkle-Converter&theme=omni)](https://github.com/vaishnav67/Luxor-2-Sparkle-Converter)     |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=MotionDetection&theme=omni)](https://github.com/vaishnav67/MotionDetection)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=ZumaToolPack&theme=omni)](https://github.com/vaishnav67/ZumaToolPack)                               |
 <!--
 **vaishnav67/vaishnav67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
