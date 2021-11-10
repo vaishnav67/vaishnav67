@@ -1,22 +1,10 @@
 # What is a man? A miserable little pile of secrets. But enough talk… Have at you!
-Hey there! My name is Vaishnav and welcome to the code factory!
-I'm currently in my 3rd year of college and I hope to work at Microsoft someday lol.
+<h1 align="center">👋 Hi, I'm Vaishnav!</h1>
+<h3 align="center">I'm currently in my 3rd year of college and I hope to work at Microsoft someday lol.</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnav67&theme=omni" /></p>
+
 # Pinned
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=RaspberryPiIntercom&theme=omni)](https://github.com/vaishnav67/RaspberryPiIntercom) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=Instagram-Influencer-Spider&theme=omni)](https://github.com/vaishnav67/Instagram-Influencer-Spider) |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=OnlineTheatreDB&theme=omni)](https://github.com/vaishnav67/OnlineTheatreDB)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=Luxor-2-Sparkle-Converter&theme=omni)](https://github.com/vaishnav67/Luxor-2-Sparkle-Converter)     |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=MotionDetection&theme=omni)](https://github.com/vaishnav67/MotionDetection)         | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaishnav67&repo=ZumaToolPack&theme=omni)](https://github.com/vaishnav67/ZumaToolPack)                               |
-<!--
-**vaishnav67/vaishnav67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
